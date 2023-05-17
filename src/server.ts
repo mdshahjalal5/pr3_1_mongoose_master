@@ -10,7 +10,7 @@ const connect = async () => {
     await db_connect();
 
     app.listen(port, () => {
-      console.log(`Server is running on port ${port}`);
+      console.log(`Server is running on port ${port} the `);
     });
   } catch (error) {}
 };

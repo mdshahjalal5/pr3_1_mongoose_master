@@ -10,7 +10,9 @@ const port = 3000;
 app.use(express.json())
 app.use(cors())
 app.use(express.urlencoded({ extended: true }));
-// router 
+
+
+//! router 
 app.use('/api/v2/user', user_route )
 
 app.get("/", (req: Request, res: Response) => {

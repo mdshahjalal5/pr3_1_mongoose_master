@@ -14,7 +14,7 @@ const options = {
   maxPoolSize: 10,
   socketTimeoutMS: 45000,
   family: 4,
-  dbName: "DataBase-change-2",
+  dbName: "web_2",
 };
 
 const db_connect = async() =>{

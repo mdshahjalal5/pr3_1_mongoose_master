@@ -16,4 +16,5 @@ yarn add typescript --dev && yarn add express && yarn add mongoose && yarn add t
 sion/6_mongoose_master_mo/pr3_1_mongoose_master    
 
 
-
+nosql studio 3t | something else  konta best for quick navigation?
+tthe 
